@@ -1,5 +1,28 @@
-# 💫 About Me:
-⏩ Currently :<br><br>~ 🎓 a student<br>~ 📚 a learner<br>~ 💪 a doer<br>~ 🧪 an experimenter<br><br>⏩ Crazy About :<br><br>~ 🎮 Game Dev<br>~ 🤖 AI<br>~ 🎞️ Animations<br><br>⏩ Idling Then? :<br><br>~ 📖 Books, 📘 Manhwa, 📙 Manga, 🎥 Anime<br>~ ✍️ Poetry
+<h2>💫 About Me:</h2>
+<div style="display: flex; gap: 40px; flex-wrap: wrap;">
+  
+  <div>
+    <strong>⏩ Currently :</strong><br><br>
+    ~ 🎓 a student<br>
+    ~ 📚 a learner<br>
+    ~ 💪 a doer<br>
+    ~ 🧪 an experimenter
+  </div>
+  
+  <div>
+    <strong>⏩ Crazy About :</strong><br><br>
+    ~ 🎮 Game Dev<br>
+    ~ 🤖 AI<br>
+    ~ 🎞️ Animations
+  </div>
+  
+  <div>
+    <strong>⏩ Idling Then? :</strong><br><br>
+    ~ 📖 Books, 📘 Manhwa, 📙 Manga, 🎥 Anime<br>
+    ~ ✍️ Poetry
+  </div>
+
+</div>
 
 
 ## 🌐 Socials:
