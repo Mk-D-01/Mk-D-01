@@ -1,28 +1,6 @@
 <h2>💫 About Me:</h2>
-<div style="display: flex; gap: 40px; flex-wrap: wrap;">
-  
-  <div>
-    <strong>⏩ Currently :</strong><br><br>
-    ~ 🎓 a student<br>
-    ~ 📚 a learner<br>
-    ~ 💪 a doer<br>
-    ~ 🧪 an experimenter
-  </div>
-  
-  <div>
-    <strong>⏩ Crazy About :</strong><br><br>
-    ~ 🎮 Game Dev<br>
-    ~ 🤖 AI<br>
-    ~ 🎞️ Animations
-  </div>
-  
-  <div>
-    <strong>⏩ Idling Then? :</strong><br><br>
-    ~ 📖 Books, 📘 Manhwa, 📙 Manga, 🎥 Anime<br>
-    ~ ✍️ Poetry
-  </div>
-
-</div>
+# 💫 About Me:
+⏩ Currently :                       ⏩ Crazy About :<br><br>~ 🎓 a student                      ~ 🎮 Game Dev<br>~ 📚 a learner                       ~ 🤖 AI<br>~ 💪 a doer                            ~ 🎞️ Animations<br>~ 🧪 an experimenter<br><br>⏩ Idling Then? :<br><br>~ 📖 Books, 📘 Manhwa, 📙 Manga, 🎥 Anime<br>~ ✍️ Poetry
 
 
 ## 🌐 Socials:
@@ -45,3 +23,9 @@
 [![](https://visitcount.itsvg.in/api?id=Mk-D-01&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+
+
+
+
