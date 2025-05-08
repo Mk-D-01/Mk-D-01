@@ -1,5 +1,5 @@
 <h2>💫 About Me:</h2>
-⏩ Currently : X<br><br>~ 🎓 a student 📚 a learner 💪 a doer 🧪 an experimenter<br><br>⏩ Crazy About :<br><br>~ 🎮 Game Dev 🤖 AI 🎞️ Animations<br><br>⏩ Idling Then? :<br><br>~ 📖 Books📘 Manhwa 📙 Manga 🎥 Anime✍️ Poetry
+⏩ Currently : <br><br>~ 🎓 a student 📚 a learner 💪 a doer 🧪 an experimenter<br><br>⏩ Crazy About :<br><br>~ 🎮 Game Dev 🤖 AI 🎞️ Animations<br><br>⏩ Idling Then? :<br><br>~ 📖 Books📘 Manhwa 📙 Manga 🎥 Anime✍️ Poetry
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/manish-kanyal-9360512a4) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/manish_kan13600) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mkanyal001@gmail.com) 
